@@ -33,7 +33,7 @@ I am currently a student at University of Electronic Science and Technology of C
 
 🐟 __Github Contributions__
 
-![contri](https://activity-graph.herokuapp.com/graph?username=sidi762&bg_color=E6E6FA&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
+![contri](https://activity-graph.herokuapp.com/graph?username=sidi762&bg_color=f5f5f5&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
 
 🏆 __Github Achievements__
 
