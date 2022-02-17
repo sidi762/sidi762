@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student at University of Electronic Science and Technology of China (UESTC) (UESTC). Despite majoring in Communication Engineering, I am more interested in computer science and enjoy experimenting with coding. I'm also enthusiastic in aviation and enjoy flight simulators a lot. I'm both a heavy user and aircraft developer of the flight simulator FlightGear. I develop and maintain FlightGear's official Boeing 777 aircraft model (and maybe more in the future). I'm also the provider of the Chinese localization for FlightGear.  
+I am currently a student at University of Electronic Science and Technology of China (UESTC). Despite majoring in Communication Engineering, I am more interested in computer science and enjoy experimenting with coding. I'm also enthusiastic in aviation and enjoy flight simulators a lot. I'm both a heavy user and aircraft developer of the flight simulator FlightGear. I develop and maintain FlightGear's official Boeing 777 aircraft model (and maybe more in the future). I'm also the provider of the Chinese localization for FlightGear.  
 
 ⌚ __Github Profile Details__
 
