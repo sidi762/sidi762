@@ -19,22 +19,22 @@ I am currently a student at University of Electronic Science and Technology of C
 
 ⌚ __Github Profile Details__
 
-![sidi762](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernames=sidi762&theme=github_light)
+![sidi762](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernames=sidi762&theme=nord_bright)
 
 👻 __Github Stats__
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sidi762&show_icons=true&count_private=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=sidi762&show_icons=true&count_private=true&theme=swift)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=sidi762&layout=compact&show_icons=true&theme=radical)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=sidi762&layout=compact&show_icons=true&theme=swift)
 
 🔥 __Github Streaks__
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=sidi762&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidi762&theme=solarized-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 🐟 __Github Contributions__
 
-![contri](https://activity-graph.herokuapp.com/graph?username=sidi762&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
+![contri](https://activity-graph.herokuapp.com/graph?username=sidi762&bg_color=E6E6FA&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
 
 🏆 __Github Achievements__
 
-![achievement](https://github-profile-trophy.vercel.app/?username=sidi762&margin-w=5&theme=radical)
+![achievement](https://github-profile-trophy.vercel.app/?username=sidi762&margin-w=5&theme=solarized-light)
