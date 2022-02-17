@@ -19,7 +19,7 @@ I am currently a student at University of Electronic Science and Technology of C
 
 ⌚ __Github Profile Details__
 
-![sidi762](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernames=sidi762&theme=nord_bright)
+![sidi762](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidi762&theme=nord_bright)
 
 👻 __Github Stats__
 
