@@ -29,11 +29,11 @@ I am currently a student at University of Electronic Science and Technology of C
 
 🔥 __Github Streaks__
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidi762&theme=solarized-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidi762&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=F4F4F4)](https://git.io/streak-stats)
 
 🐟 __Github Contributions__
 
-![contri](https://activity-graph.herokuapp.com/graph?username=sidi762&bg_color=f5f5f5&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
+![contri](https://activity-graph.herokuapp.com/graph?username=sidi762&bg_color=f5f5f5&color=cd5c5c&line=cd5c5c&point=FFFFFF&hide_border=true)
 
 🏆 __Github Achievements__
 
