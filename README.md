@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student at University of Electronic Science and Technology of China (UESTC). Despite majoring in Communication Engineering, I am more interested in computer science and enjoy experimenting with coding. I'm also enthusiastic in aviation and enjoy flight simulators a lot. I'm both a heavy user and aircraft developer of the open source flight simulator FlightGear. I develop and maintain FlightGear's official Boeing 777 aircraft model (and maybe more in the future). I'm also the provider of the Chinese localization for FlightGear.  
+🌱 A student at the University of Electronic Science and Technology of China (UESTC)  
+🤔 Majoring in Communication Engineering  
+🔭 Interested in computer science and enjoy experimenting with coding
+😄 Currently participating in research related to machine learning with medical images
+✈️ Enthusiastic in aviation and enjoy flight simulators a lot.
+⌚ Both a heavy user and aircraft developer of the open source flight simulator FlightGear.
+👯 Develop and maintain FlightGear's official Boeing 777 aircraft model (and maybe more in the future)
+📫 The provider of the Chinese localization for FlightGear. 
 
 ⌚ __Github Profile Details__
 
