@@ -37,10 +37,11 @@ I am...
 🔥 __Github Streaks__
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidi762&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=F4F4F4)](https://git.io/streak-stats)
-
+<!--
 🐟 __Github Contributions__
 
 ![contri](https://github-readme-activity-graph.cyclic.app/graph?username=sidi762&bg_color=f5f5f5&color=cd5c5c&line=cd5c5c&point=FFFFFF&hide_border=true)
+-->
 
 🏆 __Github Achievements__
 
