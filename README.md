@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am ...      
-* 📚 Student at the University of Electronic Science and Technology of China (UESTC).
-* 🎓 Pursuing a degree in Communication Engineering.
+* 📚 Graduate of the University of Electronic Science and Technology of China (UESTC) and the University of Glasgow (UoG) with a BEng, Honours of the First Class.
+* 🎓 Currently pursuing a Master’s degree in Communication Engineering with a focus on AI and Machine Learning at UESTC.
 * 💻 Passionate about computer science and enjoys experimentation in coding.
 * 🤖 Actively engaged in research focused on deep learning and medical image analysis.
 * ✈️ Enthusiast in aviation and avid user of flight simulators.
