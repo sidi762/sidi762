@@ -23,7 +23,10 @@ I am ...
 * 🛩️ A dedicated contributor and aircraft developer for the open-source flight simulator FlightGear.
 * 👨‍💻  Maintainer of FlightGear's official Boeing 777 aircraft model.
 * 🌏 Provider of Chinese localization support for FlightGear.
-* 📫 How to reach me: sidi.liang@gmail.com or sidi762@foxmail.com
+* 📫 How to reach me:
+  * sidi.liang@std.uestc.edu.cn
+  * sidi.liang@gmail.com
+  * sidi762@foxmail.com
   
 ⌚ __Github Profile Details__
 
